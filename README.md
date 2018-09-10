@@ -1,7 +1,7 @@
 # CloserCom
 CMSI401/402 Group Project (Closer Communications)
 
-## Request For Proposal
+## Project Proposal
 ## Project Description
 “CloserCom," short for "Closer Communications," is to be a social networking service company. Its goal is to create an application that will provide a medium for registered users to support and volunteer time to one another in today's progressive and constantly changing community. The primary goal is to facilitate deeper interactions and connections between diverse groups of people from all different backgrounds with no agenda but to provide support.  
 
